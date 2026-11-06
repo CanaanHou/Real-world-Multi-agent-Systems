@@ -2077,8 +2077,6 @@ Open Motion Planning Library (OMPL)。
 
 # Week 5：Advanced Optimization（高级优化）
 
-来源：[5 MAS Advanced Optimization.pdf](<5 MAS Advanced Optimization.pdf>)，共 58 页。以下按概念、公式与应用整理，页码对应 PDF 页码；标为“补充理解”的推导和建模示例用于帮助理解，不代表课件给出了相同代码或参数。
-
 ## 1. Optimization：什么是优化，为什么需要它？（p. 2–7）
 
 运动规划回答“如何到达目标”；优化进一步回答“按照指定标准，怎样做最好”。优化可用于信号/数据处理、模型辨识、机器人控制、运动规划和多智能体协作。
